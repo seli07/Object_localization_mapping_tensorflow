@@ -1,4 +1,4 @@
-# Object_localization_mapping_tensorflow
+# Object_localization_mapping_tensorflow only dobot
 tensorflow implementation of object localization and mapping of dobot magician from frozen inference graph
 
 after freezing an inference graph place the provided files in the google standard library of object detection available at https://github.com/tensorflow/models 
